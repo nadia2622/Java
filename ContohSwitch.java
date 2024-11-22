@@ -23,7 +23,7 @@ public class ContohSwitch {
             namaHari = "Sabtu";
             break;
             case 7:
-            namaHari = "Minggu";
+            namaHari = "Ahad";
             break;
             default:
             namaHari = "Hari tidak valid";
